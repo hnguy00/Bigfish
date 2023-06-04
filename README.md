@@ -43,11 +43,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-Python 3.x: python.org
-Pandas library: pandas.pydata.org
-Matplotlib library: matplotlib.org
-Plotly library: plotly.com/python/
-Seaborn library: seaborn.pydata.org
-Sendgrid API: sendgrid.com/docs
+- Python 3.x: python.org
+- Pandas library: pandas.pydata.org
+- Matplotlib library: matplotlib.org
+- Plotly library: plotly.com/python/
+- Seaborn library: seaborn.pydata.org
+- Sendgrid API: sendgrid.com/docs
 
 Feel free to update the sections and information based on your specific project details and requirements.
