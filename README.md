@@ -3,6 +3,7 @@
 # Energy Usage Data Randomization and Visualization
 
 This project aims to randomize energy usage data for households in specific locations and visualize the data using scatter plots. It provides a tool to generate synthetic energy usage data for analysis and visualization purposes.
+This is a project built for the event Builders Weekend, June 2-4, 2023 in Tokyo.
 
 ## Features
 
@@ -23,14 +24,14 @@ This project aims to randomize energy usage data for households in specific loca
 
 ## Usage
 
-1. Modify the `merged_data file to include the desired household locations.
+1. Modify the `merged_data.rar` file to view and the data, the desired household, locations.
 2. Run the `randomize_data.py` script to randomize the energy usage data: `python randomize_data.py`.
 3. Customize the scatter plot appearance and labels in the `visualize_data.py` script.
 4. Run the `visualize_data.py` script to generate scatter plots: `python visualize_data.py`.
 
 ## Examples
 
-![Scatter Plot Example](scatter_plot_example.png)
+Download Dashboard(1).html and check the demo of the scatter plot.
 
 ## Contributing
 
