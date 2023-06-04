@@ -25,9 +25,9 @@ This is a project built for the event Builders Weekend, June 2-4, 2023 in Tokyo.
 ## Usage
 
 1. Modify the `merged_data.rar` file to view and the data, the desired household, locations.
-2. Run the `randomize_data.py` script to randomize the energy usage data: `python randomize_data.py`.
-3. Customize the scatter plot appearance and labels in the `visualize_data.py` script.
-4. Run the `visualize_data.py` script to generate scatter plots: `python visualize_data.py`.
+2. Run the `gen_dataset(2).ipynb` script to randomize the energy usage data.
+3. Customize the scatter plot appearance/labels to generate scatter plots in the `visual.ipynb` script.
+5. Run `script.py` to set up automatic email sendouts via Sendgrid API.
 
 ## Examples
 
