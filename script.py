@@ -5,8 +5,8 @@ import time
 import random
 
 sender_email = 'example@gmail.com'
-# receiver_email = 'soujda2000@gmail.com'
-receiver_email = 'jweber4213@gmail.com'
+receiver_email = 'soujda2000@gmail.com'
+# receiver_email = 'jweber4213@gmail.com'
 subject = 'Energy Use Notification'
 html_content = '''
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
