@@ -23,7 +23,7 @@ This project aims to randomize energy usage data for households in specific loca
 
 ## Usage
 
-1. Modify the `locations.csv` file to include the desired household locations.
+1. Modify the `merged_data file to include the desired household locations.
 2. Run the `randomize_data.py` script to randomize the energy usage data: `python randomize_data.py`.
 3. Customize the scatter plot appearance and labels in the `visualize_data.py` script.
 4. Run the `visualize_data.py` script to generate scatter plots: `python visualize_data.py`.
